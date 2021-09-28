@@ -1,29 +1,31 @@
-# Matías Chiodo - @matiaschiodo
-### Hi there! I'm Matías Chiodo <img src="https://github.com/l33pif/l33pif/blob/master/Images/Hi.gif" width="30" height="30">
+# <img src="./images/matiaschiodo-icon.png" width="30" height="30"> Matías Chiodo - @matiaschiodo
+### Hi there! I'm Matías Chiodo <img src="./images/Hi.gif" width="30" height="30">
 
-I am from Argentina and I currently live in Rosario. I am a information systems engineering student, passionate about computer science and programming.
+I'm from Argentina and I currently live in Rosario. I'm a information systems engineering student, passionate about computer science and programming.
 
-I am currently taking courses to get training as full stack developer in [@Platzi](https://platzi.com/p/matiaschiodo/), where they can see my certificates.
+I'm currently taking courses to get training as full stack developer in [@Platzi](https://platzi.com/p/matiaschiodo/), where you can see my certificates.
 
 ## Qualifications
 
-<img src="https://img.shields.io/badge/-HTML-red"> | <img src="https://img.shields.io/badge/-CSS-blue"> | <img src="https://img.shields.io/badge/-JavaScript-yellow"> | <img src="https://img.shields.io/badge/-Webpack-lightblue"> | <img src="https://img.shields.io/badge/-NPM-red">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white"> | <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white"> | <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white"> | <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
 
 #### Learning:
 
-<img src="https://img.shields.io/badge/-React-9cf"> | <img src="https://img.shields.io/badge/-Node-brightgreen"> | <img src="https://img.shields.io/badge/-Express-black"> | <img src="https://img.shields.io/badge/-MySQL-blue">
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white"> | <img src="https://img.shields.io/badge/-Node-339933?logo=node.js&logoColor=white"> | <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white"> | <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white"> | <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white">
 
 ## Softwares, IDE's, OS's
 
-<img src="https://img.shields.io/badge/-VSCode-blue"> | <img src="https://img.shields.io/badge/-Windows-blue"> | <img src="https://img.shields.io/badge/-Linux-blueviolet">
+<img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudio&logoColor=white"> | <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white"> | <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white">
 
 ## Languages
 
 <img src="https://img.shields.io/badge/-Spanish (Native)-blue"> | <img src="https://img.shields.io/badge/-English (A2)-red">
 
 ## Contact me
-- See my certificates on [Platzi](https://platzi.com/p/matiaschiodo/).
-- Checkout my [Portafolio!](https://matiaschiodo.netlify.app/).
-- How to reach me: [matiaschiodo@gmail.com](mailto:matiaschiodo@gmail.com).
+<a href="https://platzi.com/p/matiaschiodo/" target="_blank"><img src="https://img.shields.io/badge/PLATZI-%2388d88.svg?&style=for-the-badge&logo=platzi&logoColor=white" height="41" width="174"></a>
+<a href="https://matiaschiodo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTAFOLIO-%23000000.svg?&style=for-the-badge" height="41" width="174"></a>
+<a href="mailto:matiaschiodo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-%23cc5555.svg?&style=for-the-badge" height="41" width="174"></a>
 
-<a href="https://www.linkedin.com/in/matias-chiodo-308056194/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="41" width="174"></a> <a href="https://twitter.com/ChiodoMatias" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="41" width="174"></a> <a href="https://www.instagram.com/matichiodo/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="41" width="174"></a>
+<a href="https://www.linkedin.com/in/matias-chiodo-308056194/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="41" width="174"></a> 
+<a href="https://twitter.com/ChiodoMatias" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="41" width="174"></a> 
+<a href="https://www.instagram.com/matichiodo/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height="41" width="174"></a>
