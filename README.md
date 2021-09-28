@@ -7,7 +7,7 @@ I am currently taking courses to get training as full stack developer in [@Platz
 
 ## Qualifications
 
-<img src="https://img.shields.io/badge/-HTML-red"> | <img src="https://img.shields.io/badge/-CSS-blue"> | <img src="https://img.shields.io/badge/-JavaSrcipt-yellow"> | <img src="https://img.shields.io/badge/-Webpack-lightblue"> | <img src="https://img.shields.io/badge/-NPM-red">
+<img src="https://img.shields.io/badge/-HTML-red"> | <img src="https://img.shields.io/badge/-CSS-blue"> | <img src="https://img.shields.io/badge/-JavaScript-yellow"> | <img src="https://img.shields.io/badge/-Webpack-lightblue"> | <img src="https://img.shields.io/badge/-NPM-red">
 
 #### Learning:
 
