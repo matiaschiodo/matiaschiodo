@@ -15,7 +15,7 @@ I'm currently taking courses to get training as full stack developer in [@Platzi
 
 ## Softwares, IDE's, OS's
 
-<img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudio&logoColor=white"> | <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white"> | <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudio&logoColor=white"> | <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white"> | <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white"> | <img src="https://img.shields.io/badge/-Insomnia-5849BE?logo=insomnia&logoColor=white">
 
 ## Languages
 
