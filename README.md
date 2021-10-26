@@ -23,7 +23,7 @@ I'm currently taking courses to get training as full stack developer in [@Platzi
 
 ## Contact me
 <a href="https://platzi.com/p/matiaschiodo/" target="_blank"><img src="https://img.shields.io/badge/PLATZI-%2388d88.svg?&style=for-the-badge&logo=platzi&logoColor=white" height="41" width="150"></a>
-<a href="https://matiaschiodo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/PORTAFOLIO-%23000000.svg?&style=for-the-badge&logo=netlify&logoColor=white" height="41" width="150"></a>
+<a href="https://matiaschiodo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/CV WEB-%23000000.svg?&style=for-the-badge&logo=netlify&logoColor=white" height="41" width="150"></a>
 <a href="mailto:matiaschiodo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-%23cc5555.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="41" width="150"></a>
 
 <a href="https://www.linkedin.com/in/matias-chiodo-308056194/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="41" width="150"></a> 
