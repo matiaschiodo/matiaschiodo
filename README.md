@@ -7,7 +7,7 @@ I'm currently taking courses to get training as full stack developer in [@Platzi
 
 ## Skills
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white"> <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=white"> <img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Terminal-4D4D4D?logo=windowsterminal&logoColor=white">
 
 #### Learning:
 
@@ -25,5 +25,5 @@ I'm currently taking courses to get training as full stack developer in [@Platzi
 <a href="https://platzi.com/p/matiaschiodo/" target="_blank"><img src="https://img.shields.io/badge/PLATZI-%2388d88.svg?&style=for-the-badge&logo=platzi&logoColor=white" height="41" width="150"></a>
 <a href="https://matiaschiodo.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/CV WEB-%23000000.svg?&style=for-the-badge&logo=netlify&logoColor=white" height="41" width="150"></a>
 <a href="mailto:matiaschiodo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/MAIL-%23cc5555.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="41" width="150"></a>
-<a href="https://www.linkedin.com/in/matias-chiodo-308056194/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="41" width="150"></a> 
+<a href="https://www.linkedin.com/in/matiaschiodo/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="41" width="150"></a> 
 
