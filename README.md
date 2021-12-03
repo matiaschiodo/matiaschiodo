@@ -2,7 +2,7 @@
 <h3 align="center">Hi there! <img src="./images/Hi.gif" width="30" height="30"></h3>
 
 <div align="center">
-  I'm from Argentina and I currently live in Rosario. I'm a information systems engineering student, passionate about computer science and programming.\
+  I'm from Argentina and I currently live in Rosario. I'm a information systems engineering student, passionate about computer science and programming.<br>
   I'm currently taking courses to get training as full stack developer in <a href="https://platzi.com/p/matiaschiodo/">@Platzi</a>, where you can see my certificates.
 </div>
 
