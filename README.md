@@ -17,6 +17,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/-Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white">
 </div>
 
@@ -24,6 +25,7 @@
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Node-339933?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white">
 </div>
 
 <div align="center">
